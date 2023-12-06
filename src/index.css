@@ -29,3 +29,13 @@ li{
   margin-right:10px;
   
 }
+.nav{
+  justify-content: flex-end;
+  display:flex;
+}
+.grp-details{
+  justify-content: flex-start;
+}
+table, th, td {
+  border: 1px solid;
+}
